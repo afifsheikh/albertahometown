@@ -521,8 +521,8 @@ gtag('config', 'G-DX3NP51D47');
                                                             <p>Hometown Duct Cleaning is proud to service the Hometown,
                                                                 Alberta area. Use the form to contact us today!</p>
                                                             <h5>Hometown, Alberta</h5>
-                                                            <p>10531 90th St NW Edmonton<br />
-                                                                Ab (Unit#1018)<br />
+                                                            <p>9818 45th Ave NW Edmonton<br />
+                                                                Ab T6E 5C5<br />
                                                                 Office: +1 (587) 858-0891</p>
                                                             <p>&nbsp;</p>
                                                             <p><em>Email us directly at
@@ -776,8 +776,8 @@ gtag('config', 'G-DX3NP51D47');
                                         <div id="text-4" class="widget widget_text">
                                             <h4>Hometown Office</h4>
                                             <div class="textwidget">
-                                                <p>10531 90th St NW Edmonton<br />
-                                                    Ab (Unit#1018)<br />
+                                                <p>9818 45th Ave NW Edmonton<br />
+                                                    Ab T6E 5C5<br />
                                                     Office: +1 (587) 858-0891</p>
                                             </div>
                                         </div>
